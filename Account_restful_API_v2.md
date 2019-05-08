@@ -1,7 +1,11 @@
 # Version change record
 
-  | Change Version | API Version | Change nots | Change Date | Author |
+  | Change Version | API Version | Change notes | Change Date | Author |
   | - | - | - | - | - |
+  | 1.0 | v1 | Live Chat Restful API | 2018-5-5 | Allon |
+  | 1.1 | v1 | Add Report API | 2018-06-06 | Roy |
+  | 2.0 | v2 | Live Chat Restful API redesigned based on Webapi | 2018-9-9 | Kim |
+  | 2.0.1 | v2 | modified get chat(s) endpoint response (change agents field string to array) (for ITSM) | 2018-09-20 | Surey |
   | 2.0.1 | v2 | add ldapUserName for get/create/update agent endpoint (for Unima - chatserver version: 8.15.6) | 2019-05-08 | Surey |
 
 
